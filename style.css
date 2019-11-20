@@ -1,0 +1,32 @@
+
+body {
+  background-color: #010038;
+  color: #4dd599;
+  font-family: 'Shojumaru', cursive;
+  text-align: center;
+}
+h1 {
+  font-size: 5rem;
+  font-weight: bold;
+}
+h3 {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+footer {
+  margin: 5%;
+}
+.mid-container {
+  width: 100%;
+
+}
+
+.player {
+  display: inline-block;
+  padding: 3% 5% 0% 5%;
+}
+
+#dice {
+  width: 100px;
+}
